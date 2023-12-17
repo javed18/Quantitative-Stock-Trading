@@ -1,8 +1,5 @@
-Project Name:
-Quantitative Stock Analysis Toolkit
-
-Project Description:
-This project, the Quantitative Stock Analysis Toolkit, is a comprehensive analysis tool designed to provide insights into stock performance through a combination of technical analysis and machine learning algorithms. It allows users to assess historical stock price data, generate buy/sell signals, and backtest machine learning models for predicting future stock movements.
+Description:
+This project is a comprehensive quantitative stock analysis toolkit, designed to provide insights into creating a trading system through combination of technical analysis and machine learning algorithms. It allows users to assess historical stock price data, generate buy/sell signals, backtest prediction model for accuracy and test portfolio returns. The end result is a robust algorithmic system for predicting future stock movements.
 
 Key Features:
 
@@ -19,7 +16,7 @@ Modular and Scalable:
 Designed to analyze multiple stocks by providing a modular structure.
 Expands easily to accommodate additional technical indicators, fundamental factors, and machine learning models.
 
-Technologies Used:
+Packages/ibraries Used:
 Python, Pandas, NumPy, Matplotlib, Statsmodels, yfinance, Scikit-learn, PyCaret
 
 How to Use:
