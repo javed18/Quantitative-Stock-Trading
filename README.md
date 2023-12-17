@@ -1,4 +1,3 @@
-Description:
 This project is a comprehensive quantitative stock analysis toolkit, designed to provide insights into creating a trading system through combination of technical analysis and machine learning algorithms. It allows users to assess historical stock price data, generate buy/sell signals, backtest prediction model for accuracy and test portfolio returns. The end result is a robust algorithmic system for predicting future stock movements.
 
 Key Features:
